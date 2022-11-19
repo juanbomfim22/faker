@@ -4,11 +4,11 @@ export default {
   // It is used to specify a word in context, which may differ from a stand-alone word
   wide_context: [
     'Domingo',
-    'Segunda',
-    'Terça',
-    'Quarta',
-    'Quinta',
-    'Sexta',
+    'Segunda-feira',
+    'Terça-feira',
+    'Quarta-feira',
+    'Quinta-feira',
+    'Sexta-feira',
     'Sábado',
   ],
   abbr: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
